@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RottenPotatoes
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=ratings\ movie
+comment2.target=int\ movieRating(int[][],\ int)
+comment3.params=ratings\ reviewer
+comment3.target=int\ reviewRating(int[][],\ int)
+comment4.params=ratings
+comment4.target=int\ avgRating(int[][])
+comment5.params=ratings
+comment5.target=int\ hardest(int[][])
+comment6.params=ratings
+comment6.target=int\ worst(int[][])
+numComments=7
